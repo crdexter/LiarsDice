@@ -480,8 +480,6 @@ int main()
 		cout << "Next Player have a seat." << endl << "Look away if it is not your turn." << endl << "No cheating now..." << endl;
 		system("pause");
 		system("cls");
-
-
 	}
 
 
