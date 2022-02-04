@@ -1,0 +1,26 @@
+LIARS DICE RULES
+-----------------------------------------------------------
+Each player will roll 5 dice in secret.
+Players will not know the others players rolls until the end.
+-----------------------------------------------------------
+
+Players will then take turns guessing the 
+total number of a particular side of dice on the table. 
+
+Example:4(the number of dice) 5(the side of the dice)
+-----------------------------------------------------------
+The following player can choose to guess or call.
+
+If guessing the player must guess a number of dice
+higher than the previous player but can choose the
+dices side regardless of previous players.
+
+Example: Previous player guesses 2,5 
+	 Current player guesses 3,4 
+
+If the player chooses to call then all players will 
+reveal their dice and the previous player's guess will
+be checked. If the total of the players guess is less than
+or equal to the total dice sides of their guess they win.
+If the guess is more the player who called wins.
+-----------------------------------------------------------

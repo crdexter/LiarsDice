@@ -1,0 +1,12 @@
+==========================================================================
+Players will guess a number of dice higher than the previous player	 
+the side of the dice does not matter, but it must be a higher number
+of dice than the previous guess. Players can also call the previous
+players guess a lie and check to win the game.
+
+When making your guess be sure to guess higher than the previous player. 
+
+It's wrong to lie....but if you need
+to don't be to obvious. Players
+will notice obvious bluffs.
+=========================================================================
