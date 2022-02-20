@@ -9,5 +9,9 @@ players guess a lie and check to win the game. This simple game is made using C+
 With this project I hope to highlight my knowledge of C++ fundamentals and application development. While this game does not require any advance knowledge it does use many basic skills and I hope to show my understanding and creativity with these.
 
 ### Gameplay
-https://www.youtube.com/watch?v=XPixoC5e3WM
+
+
+https://user-images.githubusercontent.com/79892776/154869193-1588ca10-703f-492f-8be6-8c81f8df502f.mp4
+
+
 
